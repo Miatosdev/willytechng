@@ -2,12 +2,12 @@ import 'package:flutter_sixvalley_ecommerce/localization/models/language_model.d
 import 'package:flutter_sixvalley_ecommerce/utill/images.dart';
 
 class AppConstants {
-  static const String appName = '6valley';
+  static const String appName = 'Willyech.ng';
   static const String slogan = 'E-Commerce Marketplace';
   static const String appVersion = '15.1'; ///Flutter SDK 3.27.4
 
 
-  static const String baseUrl = 'YOUR_BASE_URL_HERE';
+  static const String baseUrl = 'https://willytech.ng';
 
   static const String userId = 'userId';
   static const String name = 'name';
